@@ -12,6 +12,11 @@ A curated list of javascript katas to improve your coding skills. For more aweso
 - [Last](https://github.com/ouadie-lahdioui/last) - Javascript kata to find the last element of a list.
 
 
+## Contributing
+
+Your contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
