@@ -15,6 +15,7 @@ A curated list of javascript katas to improve your coding skills. For more aweso
 - [For the sake of argument](https://github.com/ouadie-lahdioui/for-the-sake-of-argument) - Javascript kata to return true if all the function parameters are of the Number type.
 - [Duplicate Arguments](https://github.com/ouadie-lahdioui/duplicate-arguments) - Javascript kata to check for duplication.
 - [Calculating averages](https://github.com/ouadie-lahdioui/calculating-averages) - Javascript kata to calculate the average for an arbitrary number of arguments.
+- [Anonymous Returns](https://github.com/ouadie-lahdioui/anonymous-returns) - Javascript kata to make function called by itself bound to correct context.
 
 
 ## Contributing
