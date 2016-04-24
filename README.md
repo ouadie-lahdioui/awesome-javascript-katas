@@ -1,4 +1,6 @@
-<img src="https://github.com/ouadie-lahdioui/awesome-javascript-katas/blob/master/logo/awesome_logo.jpg">
+<p align="center">
+	<img src="https://github.com/ouadie-lahdioui/awesome-javascript-katas/blob/master/logo/awesome_logo.jpg" style="max-width:100%;width: 300px;">
+</p>
 
 Awesome Javascript Katas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 =====================
