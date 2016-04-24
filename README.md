@@ -10,6 +10,11 @@ A curated list of javascript katas to improve your coding skills. For more aweso
 ## Katas
 
 - [Last](https://github.com/ouadie-lahdioui/last) - Javascript kata to find the last element of a list.
+- [Broken Greetings](https://github.com/ouadie-lahdioui/broken-greetings) - Javascript kata to correct a greet function.
+- [Unpacking Arguments](https://github.com/ouadie-lahdioui/unpacking-arguments) - Javascript kata to call a given function/lambda with a given arguments.
+- [For the sake of argument](https://github.com/ouadie-lahdioui/for-the-sake-of-argument) - Javascript kata to return true if all the function parameters are of the Number type.
+- [Duplicate Arguments](https://github.com/ouadie-lahdioui/duplicate-arguments) - Javascript kata to check for duplication.
+- [Calculating averages](https://github.com/ouadie-lahdioui/calculating-averages) - Javascript kata to calculate the average for an arbitrary number of arguments.
 
 
 ## Contributing
