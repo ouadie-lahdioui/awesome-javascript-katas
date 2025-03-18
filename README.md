@@ -17,6 +17,11 @@ A curated list of javascript katas to improve your coding skills. For more aweso
 - [Calculating averages](https://github.com/ouadie-lahdioui/calculating-averages) - Javascript kata to calculate the average for an arbitrary number of arguments.
 - [Anonymous Returns](https://github.com/ouadie-lahdioui/anonymous-returns) - Javascript kata to make function called by itself bound to correct context.
 
+## Functions
+- [.filter()](filter/README.md) - Javascript .filter() function.
+- [.map()](map/README.md) - Javascript .map() function.
+- [.reduce()](reduce/README.md) - Javascript .reduce() function.
+
 
 ## Contributing
 
